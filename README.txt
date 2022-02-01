@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning some programming language
 - 💞️ I’m looking to collaborate on coding program with python or java 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?murdiantasriel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdiantasriel)](https://github.com/anuraghazra/github-readme-stats)
